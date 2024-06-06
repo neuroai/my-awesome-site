@@ -52,17 +52,32 @@ nav ul li a:hover {
     font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
+/* Logo */
+.logo {
+    text-align: center;
+    margin-bottom: 40px; /* Adjust this value as needed */
+}
+
+.logo img {
+    max-width: 100%; /* Ensure the logo is responsive */
+    height: auto;
+}
+
 /* Footer */
 footer {
     text-align: center;
     padding: 1em 0;
     background-color: transparent; /* Remove background color */
     color: #333; /* Ensure text color is dark for readability */
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
 
 /* Main Content */
 main {
     padding: 2em;
+    flex: 1; /* Ensure the main content takes up available space */
 }
 
 /* People Section */
@@ -113,4 +128,14 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Ensure the body and html take full height */
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
 }
