@@ -12,24 +12,18 @@ title: People
     <div class="person-role">Principal Investigator, Assistant Professor</div>
   </div>
   <div class="person">
-    <img class="headshot" src="/sunlab/c-strawder.jpg" alt="Graduate Student 1">
-    <div class="person-title">Graduate Student 1</div>
-    <div class="person-role">Role 1</div>
+    <img class="headshot" src="/sunlab/c-strawder.jpg" alt="Chelsea Strawder">
+    <div class="person-title">Chelsea Strawder</div>
+    <div class="person-role">Graduate Student</div>
   </div>
   <div class="person">
-    <img class="headshot" src="/sunlab/c-strawder.jpg" alt="Graduate Student 2">
-    <div class="person-title">Graduate Student 2</div>
-    <div class="person-role">Role 2</div>
+    <img class="headshot" src="/sunlab/ivan-kondratyev.png" alt="Ivan Kondratyev">
+    <div class="person-title">Ivan Kondratyev</div>
+    <div class="person-role">Graduate Student</div>
   </div>
   <div class="person">
-    <img class="headshot" src="/sunlab/ivan-kondratyev.png" alt="Undergraduate Student 1">
-    <div class="person-title">Undergraduate Student 1</div>
-    <div class="person-role">Role 1</div>
+    <img class="headshot" src="/sunlab/jacob.jpg" alt="Jacob Groner">
+    <div class="person-title">Jacob Groner</div>
+    <div class="person-role">Undergraduate Student</div>
   </div>
-  <div class="person">
-    <img class="headshot" src="/sunlab/jacob.jpg" alt="Undergraduate Student 2">
-    <div class="person-title">Undergraduate Student 2</div>
-    <div class="person-role">Role 2</div>
-  </div>
-  <!-- Add more members as needed -->
 </div>
