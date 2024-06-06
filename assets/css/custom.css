@@ -8,4 +8,14 @@
     width: 150px; /* Adjust as needed */
     height: 150px; /* Adjust as needed */
     object-fit: cover; /* Ensure the image scales correctly within the circle */
+    margin-bottom: 20px; /* Add some space below the images */
+}
+
+.person {
+    margin-bottom: 40px; /* Add space between each person section */
+}
+
+.person p {
+    margin: 0; /* Remove default margin */
+    font-size: 1.2em; /* Adjust as needed for styling */
 }
