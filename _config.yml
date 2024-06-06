@@ -13,3 +13,9 @@ github_username: neuroai
 theme: minima
 plugins:
   - jekyll-feed
+
+sass:
+  style: compressed
+
+# Custom CSS
+custom_css: /assets/css/custom.css
