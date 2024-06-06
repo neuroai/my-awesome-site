@@ -7,7 +7,7 @@ title: Research
 
 <div style="text-align: center;">
     <video width="600" controls>
-      <source src="mesoscope.mp4" type="video/mp4">
+      <source src="/sunlab/mesoscope.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>2-Photon imaging of mouse hippocampus showing activities of > 5000 neurons.</p>
