@@ -3,31 +3,36 @@ layout: default
 title: People
 ---
 
-## People
+## Our Team
 
 <div class="people-section">
+  <div class="people-group">
+    <div class="people-group-title">Graduate Students</div>
     <div class="person">
-        <p class="person-title">Weinan Sun</p>
-        <p class="person-role">Assistant Professor</p>
-        <img src="weinanheadshot0.jpg" alt="Weinan Sun" class="headshot">
+      <img class="headshot" src="{{ site.baseurl }}/assets/images/graduate1.jpg" alt="Graduate Student 1">
+      <div class="person-title">Graduate Student 1</div>
+      <div class="person-role">Role 1</div>
     </div>
+    <div class="person">
+      <img class="headshot" src="{{ site.baseurl }}/assets/images/graduate2.jpg" alt="Graduate Student 2">
+      <div class="person-title">Graduate Student 2</div>
+      <div class="person-role">Role 2</div>
+    </div>
+    <!-- Add more graduate students as needed -->
+  </div>
 
-    <h2>Graduate Students</h2>
+  <div class="people-group">
+    <div class="people-group-title">Undergraduate Students</div>
     <div class="person">
-        <p class="person-title">Chelsea Strawder</p>
-        <p class="person-role">Graduate Student</p>
-        <img src="c-strawder.jpg" alt="Chelsea Strawder" class="headshot">
+      <img class="headshot" src="{{ site.baseurl }}/assets/images/undergraduate1.jpg" alt="Undergraduate Student 1">
+      <div class="person-title">Undergraduate Student 1</div>
+      <div class="person-role">Role 1</div>
     </div>
     <div class="person">
-        <p class="person-title">Ivan Kondratyev</p>
-        <p class="person-role">Graduate Student</p>
-        <img src="ivan-kondratyev.png" alt="Ivan Kondratyev" class="headshot">
+      <img class="headshot" src="{{ site.baseurl }}/assets/images/undergraduate2.jpg" alt="Undergraduate Student 2">
+      <div class="person-title">Undergraduate Student 2</div>
+      <div class="person-role">Role 2</div>
     </div>
-
-    <h2>Undergraduate Students</h2>
-    <div class="person">
-        <p class="person-title">Jacob Groner</p>
-        <p class="person-role">Undergraduate Student</p>
-        <img src="jacob.jpg" alt="Jacob Groner" class="headshot">
-    </div>
+    <!-- Add more undergraduate students as needed -->
+  </div>
 </div>
