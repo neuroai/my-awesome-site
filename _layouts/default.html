@@ -24,11 +24,15 @@
   <div class="header-title">
     <h1>Sun Lab</h1>
   </div>
+  <div class="logo">
+    <!-- Add the Cornell logo here -->
+    <img src="/sunlab/assets/images/cornell_logo.png" alt="Cornell Logo">
+  </div>
   {% endif %}
   <main>
     {{ content }}
   </main>
-  <footer>
+  <footer class="footer">
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
   </footer>
 </body>
