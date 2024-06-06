@@ -13,5 +13,5 @@ title: Sun Lab
         2. To use this understanding to improve AI systems.
     </p>
     <div style="width: 400px; height: 100px; background-color: #ccc; margin: 20px auto;"></div>
-    <img src="images/cornell_logo.svg" alt="Cornell University Logo" style="margin-top: 20px; max-width: 100%; height: auto;">
+    <img src="cornell_logo.svg" alt="Cornell University Logo" style="margin-top: 20px; max-width: 100%; height: auto;">
 </div>
