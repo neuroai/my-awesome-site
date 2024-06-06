@@ -3,13 +3,27 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
 <body>
-  {% include header.html %}
-  <div class="content">
+  <header>
+    <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <nav>
+      <ul>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}/people">People</a></li>
+        <li><a href="{{ site.baseurl }}/research">Research</a></li>
+        <li><a href="{{ site.baseurl }}/publications">Publications</a></li>
+        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
     {{ content }}
-  </div>
+  </main>
+  <footer>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+  </footer>
 </body>
 </html>
