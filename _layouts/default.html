@@ -30,7 +30,9 @@
   </div>
   {% endif %}
   <main>
-    {{ content }}
+    <div class="content-container">
+      {{ content }}
+    </div>
   </main>
   <footer class="footer">
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
