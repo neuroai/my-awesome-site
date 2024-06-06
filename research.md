@@ -6,7 +6,7 @@ title: Research
 ## Research
 
 <div style="text-align: center;">
-    <video width="600" controls>
+    <video width="600" controls autoplay loop>
       <source src="/sunlab/mesoscope.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
