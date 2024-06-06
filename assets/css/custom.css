@@ -1,5 +1,11 @@
-.cornell-logo, .cornell-pic, img {
+.cornell-logo, .cornell-pic {
     border-radius: 0 !important;
     clip-path: none !important;
-    shape-outside: none !important;
+}
+
+.headshot {
+    border-radius: 50% !important;
+    width: 150px; /* Adjust as needed */
+    height: 150px; /* Adjust as needed */
+    object-fit: cover; /* Ensure the image scales correctly within the circle */
 }
