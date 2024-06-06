@@ -14,17 +14,18 @@ The Sun lab is interested in both biological and artificial intelligence, with t
 
 ### PI
 - Weinan Sun, Assistant Professor
-  ![Weinan Sun](path_to_weinan_sun_headshot)
+  ![Weinan Sun](weinanheadshot0.jpg)
 
 ### Graduate Students
-- Ivan Kondratyev, Graduate Student
-  ![Ivan Kondratyev](path_to_ivan_kondratyev_headshot)
 - Chelsea Strawder, Graduate Student
-  ![Chelsea Strawder](path_to_chelsea_strawder_headshot)
+  ![Chelsea Strawder](c-strawder.jpg)
+- Ivan Kondratyev, Graduate Student
+  ![Ivan Kondratyev](ivan-kondratyev.png)
+
 
 ### Undergraduate Students
 - Jacob Groner, Undergraduate Student
-  ![Jacob Groner](path_to_jacob_groner_headshot)
+  ![Jacob Groner](jacob.jpg)
 
 ## Research
 
