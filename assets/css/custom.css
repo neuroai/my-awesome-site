@@ -41,10 +41,10 @@ nav ul li a:hover {
 /* Banner */
 .banner {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start; /* Align to the left */
     align-items: center;
     background-color: #f8f8f8;
-    padding: 20px 0;
+    padding: 20px;
     position: relative;
 }
 
@@ -70,7 +70,7 @@ nav ul li a:hover {
 .header-title {
     padding: 1em;
     background-color: #f8f8f8;
-    margin-top: 0;
+    margin-top: 20px; /* Reduce the margin to move it up */
     margin-bottom: 20px;
     text-align: center; /* Center the title */
 }
@@ -85,8 +85,8 @@ nav ul li a:hover {
 /* Logo */
 .logo {
     text-align: center;
-    margin-top: 80px;  /* Significantly increase the top margin */
-    margin-bottom: 100px; /* Adjust this value as needed */
+    margin-top: 20px;  /* Reduce the top margin */
+    margin-bottom: 40px; /* Adjust this value as needed */
 }
 
 .logo img {
