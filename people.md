@@ -7,14 +7,14 @@ title: People
 
 ### PI
 - Weinan Sun, Assistant Professor
-  ![Weinan Sun](images/weinanheadshot0.jpg)
+  ![Weinan Sun](weinanheadshot0.jpg)
 
 ### Graduate Students
 - Chelsea Strawder, Graduate Student
-  ![Chelsea Strawder](images/c-strawder.jpg)
+  ![Chelsea Strawder](c-strawder.jpg)
 - Ivan Kondratyev, Graduate Student
-  ![Ivan Kondratyev](images/ivan-kondratyev.png)
+  ![Ivan Kondratyev](ivan-kondratyev.png)
 
 ### Undergraduate Students
 - Jacob Groner, Undergraduate Student
-  ![Jacob Groner](images/jacob.jpg)
+  ![Jacob Groner](jacob.jpg)
