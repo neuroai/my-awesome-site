@@ -55,7 +55,8 @@ nav ul li a:hover {
 /* Logo */
 .logo {
     text-align: center;
-    margin-bottom: 40px; /* Adjust this value as needed */
+    margin-top: 40px;  /* Increase the top margin to move the logo down */
+    margin-bottom: 60px; /* Adjust this value as needed */
 }
 
 .logo img {
