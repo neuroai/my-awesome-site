@@ -12,5 +12,5 @@ title: Sun Lab
         1. To better understand the biological underpinnings of animal cognition and intelligent behavior.
         2. To use this understanding to improve AI systems.
     </p>
-    <img src="images/cornell_logo.svg" alt="Cornell University Logo" class="cornell-logo" style="margin-top: 40px;">
+    <img src="cornell_logo.svg" alt="Cornell University Logo" class="cornell-logo" style="margin-top: 40px;">
 </div>
