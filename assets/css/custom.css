@@ -18,17 +18,23 @@ nav ul {
     padding: 0;
     margin: 0;
     display: flex;
-    justify-content: space-around;
+    justify-content: center; /* Center the navigation links */
 }
 
 nav ul li {
-    display: inline;
-    margin-right: 10px;
+    margin-right: 20px; /* Increase the spacing between links */
 }
 
 nav ul li a {
     color: white;
     text-decoration: none;
+    font-size: 1.2em; /* Increase the font size */
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+nav ul li a:hover {
+    color: #ccc; /* Subtle hover effect */
 }
 
 .header-title {
@@ -36,13 +42,14 @@ nav ul li a {
     background-color: #f8f8f8;
     margin-top: 0;
     margin-bottom: 20px;
-    text-align: left;
+    text-align: center; /* Center the title */
 }
 
 .header-title h1 {
-    font-size: 2em;
+    font-size: 2.5em; /* Increase the font size of the title */
     margin: 0;
     color: #333;
+    font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 /* Footer */
@@ -60,25 +67,31 @@ main {
 /* People Section */
 .people-section {
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .person {
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     width: 200px;
     margin: 20px;
-    vertical-align: top;
 }
 
 .person-title {
     font-size: 1.2em;
     font-weight: bold;
     margin: 10px 0 5px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 .person-role {
     font-size: 1em;
     color: #555;
     margin: 0 0 10px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 .headshot {
@@ -97,4 +110,5 @@ h2 {
     margin-bottom: 20px;
     text-transform: uppercase;
     letter-spacing: 1px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
 }
