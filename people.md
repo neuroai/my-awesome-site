@@ -5,19 +5,16 @@ title: People
 
 ## People
 
-<div class="people-section">
-  <h3>PI</h3>
-  <p>Weinan Sun, Assistant Professor</p>
-  <img src="weinanheadshot0.jpg" alt="Weinan Sun">
+### PI
+- Weinan Sun, Assistant Professor
+  ![Weinan Sun](/sunlab/images/weinanheadshot0.jpg){: .headshot}
 
-  <h3>Graduate Students</h3>
-  <p>Chelsea Strawder, Graduate Student</p>
-  <img src="c-strawder.jpg" alt="Chelsea Strawder">
-  
-  <p>Ivan Kondratyev, Graduate Student</p>
-  <img src="ivan-kondratyev.png" alt="Ivan Kondratyev">
+### Graduate Students
+- Chelsea Strawder, Graduate Student
+  ![Chelsea Strawder](/sunlab/images/c-strawder.jpg){: .headshot}
+- Ivan Kondratyev, Graduate Student
+  ![Ivan Kondratyev](/sunlab/images/ivan-kondratyev.png){: .headshot}
 
-  <h3>Undergraduate Students</h3>
-  <p>Jacob Groner, Undergraduate Student</p>
-  <img src="jacob.jpg" alt="Jacob Groner">
-</div>
+### Undergraduate Students
+- Jacob Groner, Undergraduate Student
+  ![Jacob Groner](/sunlab/images/jacob.jpg){: .headshot}
