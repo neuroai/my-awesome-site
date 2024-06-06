@@ -12,7 +12,7 @@ title: People
     <div class="person-role">Principal Investigator, Assistant Professor</div>
   </div>
   <div class="person">
-    <img class="headshot" src="/sunlab/c-strawder.jpg" alt="Chelsea Strawder">
+    <img class="headshot" src="/sunlab/c-strawder.jpeg" alt="Chelsea Strawder">
     <div class="person-title">Chelsea Strawder</div>
     <div class="person-role">Graduate Student</div>
   </div>
