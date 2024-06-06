@@ -1,3 +1,4 @@
 .cornell-logo, .cornell-pic {
     border-radius: 0 !important;
+    clip-path: none !important;
 }
