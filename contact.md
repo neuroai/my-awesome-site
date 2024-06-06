@@ -5,4 +5,8 @@ title: Contact
 
 ## Contact
 
-<!-- Add contact information here -->
+<div style="text-align: center;">
+    <img src="images/cornell.jpg" alt="Cornell University" style="max-width: 100%; height: auto;">
+    <p>W213 Mudd Hall, 215 Tower Rd, Ithaca, NY 14853<br>
+    ws467@cornell.edu</p>
+</div>
